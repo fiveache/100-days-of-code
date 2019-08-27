@@ -27,7 +27,7 @@ The project's requirements are:
 - When the user presses the close button of the error they are returned to the Form or Show view (skipping Status and Confirm).
 - The application makes API requests to load and persist data. We do not lose data after a browser refresh.
 
-**Thoughts:** It's been a while since I touched a Front End project, and this is using the most recent updates to React, so I'm excited
+**Thoughts:**
 **Link to work:** [Scheduler](https://github.com/fiveache/scheduler)
 
 ### R1D2, August 25th, 2019
@@ -35,4 +35,11 @@ The project's requirements are:
 **Today's Progress**: Continued with making some of the components with Storybook. I'm having troubles getting the styling with classNames.
 
 **Thoughts:** I'm a little distracted today, but managed to put in a good hour and a half.
+**Link to work:** [Scheduler](https://github.com/fiveache/scheduler)
+
+### R1D3, August 26th, 2019
+
+**Today's Progress**: Continued with making components in Storybook, and controlled component forms.
+
+**Thoughts:** I'm tired but made good progress!
 **Link to work:** [Scheduler](https://github.com/fiveache/scheduler)
